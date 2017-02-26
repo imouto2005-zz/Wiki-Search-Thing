@@ -1,0 +1,46 @@
+body {
+	margin: 50px auto;
+	text-align: center;
+	background: url(https://campervanconverts.files.wordpress.com/2011/01/gingham.jpg);
+	background-repeat: repeat;
+	font-family: "Itim";
+	font-size: 15px;
+}
+h1 {
+	font-family: "Satisfy";
+	font-size: 80px;
+	color: white;
+	text-shadow: 2px 2px #5D82F0;
+}
+h2 {
+	font-family: "Special Elite";
+}
+p {
+	font-family: "Itim";
+	font-size: 18px;
+	width: 600px;
+}
+button {
+	border-radius: 5px;
+	border: 2.5px solid white;
+	color: white;
+	background: #85DAFF;
+	font-family: "Itim";
+}
+input {
+     border: 2.5px solid #85DAFF;
+     border-radius: 5px;
+     padding: 5px;
+}
+input::-webkit-input-placeholder {
+   font-family: "Itim";
+   color: #B8D5FF;
+}
+input[type="submit"] {
+      background: #85DAFF;
+      color: white;
+      font-family: "Itim";
+      text-transform: uppercase;
+      border-radius: 5px;
+      border: 2.5px solid white;
+}
